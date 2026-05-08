@@ -139,9 +139,9 @@ Este es un proyecto académico. Para contribuciones, contacta al autor.
 
 ## Autor
 
-- **Joshi Alfageme Negrón**
+- **Josias Eliel Alfageme Neyra**
 - Email: jalfagemene@ucvvirtual.edu.pe
-- Universidad Central de Venezuela
+- Universidad Cesar Vallejo
 
 ## Licencia
 
